@@ -15,7 +15,7 @@
 
 :small_blue_diamond: [Funcionalidade](#funcionalidade)
 
-:small_blue_diamond: [Prótotipos & Preview ](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Prótotipos & Preview ](#prótotipos-&-Preview-dash)
 <br><br>
 
 ## Descrição do projeto 
