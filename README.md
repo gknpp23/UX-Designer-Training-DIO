@@ -16,8 +16,6 @@
 :small_blue_diamond: [Funcionalidade](#funcionalidade)
 
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 <br><br>
 
 ## Descrição do projeto 
@@ -36,9 +34,19 @@
 
 <hr>
 
-https://www.figma.com/proto/a5UHt7aadfE8uT53sFpK6N/mobile-version-site-petshop?type=design&node-id=1-2&viewport=395%2C199%2C0.1&t=Zk2dTkid8xtyvDLx-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
+## Deploy da Aplicação :dash:
 
-https://www.figma.com/proto/SxZikEQgLpfcx64xRQYWEC/Desktop-site-petshop?type=design&node-id=1-3&viewport=270%2C57%2C0.06&t=wnVjoymIzcLvxRbI-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A3&mode=design
+###   Desktop
+> https://www.figma.com/proto/SxZikEQgLpfcx64xRQYWEC/Desktop-site-petshop?type=design&node-id=1-3&viewport=270%2C57%2C0.06&t=wnVjoymIzcLvxRbI-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A3&mode=design
+<br>
+<img src="img/proj01.png" align="center" width="1200">
+
+<br>
+
+###   Mobile
+> https://www.figma.com/proto/a5UHt7aadfE8uT53sFpK6N/mobile-version-site-petshop?type=design&node-id=1-2&viewport=395%2C199%2C0.1&t=Zk2dTkid8xtyvDLx-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
+<br>
+<img src="img/proj02.png" align="center" width="1200">
 
 <hr>
 
