@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=UX&message=User Xperience&color=blue&style=for-the-badge&logo=UX"/>
   <img src="https://img.shields.io/static/v1?label=&message=Figma&color=yellow&style=for-the-badge&logo=Figma"/>
-  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 <br><br>
