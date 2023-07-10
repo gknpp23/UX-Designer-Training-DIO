@@ -15,7 +15,7 @@
 
 :small_blue_diamond: [Funcionalidade](#funcionalidade)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Prótotipos & Preview ](#deploy-da-aplicação-dash)
 <br><br>
 
 ## Descrição do projeto 
@@ -30,23 +30,24 @@
 
 ## Funcionalidade
 
-:heavy_check_mark: Guardar projetos desenvolvidos durante o curso.  
+:heavy_check_mark: Guardar projeto final do curso.  
 
 <hr>
 
-## Deploy da Aplicação :dash:
-
-###   Desktop
-> https://www.figma.com/proto/SxZikEQgLpfcx64xRQYWEC/Desktop-site-petshop?type=design&node-id=1-3&viewport=270%2C57%2C0.06&t=wnVjoymIzcLvxRbI-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A3&mode=design
-<br>
-<img src="img/proj01.png" align="center" width="1200">
-
-<br>
+## Prótotipos & Preview  :dash:
 
 ###   Mobile
 > https://www.figma.com/proto/a5UHt7aadfE8uT53sFpK6N/mobile-version-site-petshop?type=design&node-id=1-2&viewport=395%2C199%2C0.1&t=Zk2dTkid8xtyvDLx-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
 <br>
-<img src="img/proj02.png" align="center" width="1200">
+
+###   Desktop
+> https://www.figma.com/proto/SxZikEQgLpfcx64xRQYWEC/Desktop-site-petshop?type=design&node-id=1-3&viewport=270%2C57%2C0.06&t=wnVjoymIzcLvxRbI-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A3&mode=design
+<br>
+
+<img src="Desktop - 1.jpg" align="right" width="600">
+<img src="Android Large - 1.jpg"  width="300" align="center">
+
+<br>
 
 <hr>
 
