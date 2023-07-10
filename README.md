@@ -22,7 +22,7 @@
 
 ## Descrição do projeto 
 <p align="justify"> 
-  Desafios propostos na trilha de aprendizado de UI/UX na plataforma DIO
+  Projeto desenvolvido com os conhecimentos obtidos na trilha de UI/UX na plataforma DIO.
   <br><br>
 </p>
 
