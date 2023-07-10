@@ -22,7 +22,7 @@
 
 ## Descrição do projeto 
 <p align="justify"> 
-  Desafios propostos na trilha de aprendizado de CSS na plataforma DIO
+  Desafios propostos na trilha de aprendizado de UI/UX na plataforma DIO
   <br><br>
 </p>
 
@@ -38,14 +38,6 @@
 
 <!-- Adicionar prints dos arquivos de prototipos e wireframes-->
 
-
-<hr>
-
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: 2022 - Formação CSS DIO.
 
 <hr>
 
