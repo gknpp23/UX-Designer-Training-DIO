@@ -44,6 +44,9 @@
 > https://www.figma.com/proto/SxZikEQgLpfcx64xRQYWEC/Desktop-site-petshop?type=design&node-id=1-3&viewport=270%2C57%2C0.06&t=wnVjoymIzcLvxRbI-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A3&mode=design
 <br>
 
+### Visualização das telas
+
+<hr> 
 <img src="Desktop - 1.jpg" align="right" width="500">
 <img src="Android Large - 1.jpg"  width="300" align="center">
 
