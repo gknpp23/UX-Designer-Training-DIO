@@ -29,7 +29,7 @@
 
 <hr>
 
-## Funcionalidade
+## Funcionalidades
 
 :heavy_check_mark: Guardar projeto final do curso.  
 
