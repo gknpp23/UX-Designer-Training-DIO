@@ -20,6 +20,7 @@
 
 ## Descrição do projeto 
 <p align="justify"> 
+  Interface de um site para um petshop da minha cidade.
   Projeto desenvolvido com os conhecimentos obtidos na trilha de UI/UX na plataforma DIO.
   <br><br>
 </p>
@@ -31,6 +32,15 @@
 ## Funcionalidade
 
 :heavy_check_mark: Guardar projeto final do curso.  
+
+:heavy_check_mark: Criar o Briefing do Projeto
+
+:heavy_check_mark: Desenvolver o Wireframe e Design System  
+
+:heavy_check_mark: Criar o Mockup Navegável 
+
+:heavy_check_mark: Finalizar o Protótipo por completo no Figma 
+
 
 <hr>
 
