@@ -13,16 +13,15 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidade](#funcionalidade)
+:small_blue_diamond: [Funcionalidades](#funcionalidades)
 
 :small_blue_diamond: [Prótotipos & Preview ](#prótotipos-e-preview)
 <br><br>
 
 ## Descrição do projeto 
 <p align="justify"> 
-  Interface de um site para um petshop da minha cidade.
-  Projeto desenvolvido com os conhecimentos obtidos na trilha de UI/UX na plataforma DIO.
-  <br><br>
+  Para a entrega final da trilha de aprendizado, escolhi um petshop da minha região. Segui todas as etapas propostas, desde o briefing até os protótipos. Foi desenvolvido a interface de um site (responsivo), buscando proporcionar a melhor experiência possivel para os usuários.
+  <br>
 </p>
 
 <br><br>
@@ -31,15 +30,15 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: Guardar projeto final do curso.  
+:heavy_check_mark: Fazer o Briefing do Projeto
 
-:heavy_check_mark: Criar o Briefing do Projeto
-
-:heavy_check_mark: Desenvolver o Wireframe e Design System  
+:heavy_check_mark: Desenvolver o Wireframe  
 
 :heavy_check_mark: Criar o Mockup Navegável 
 
 :heavy_check_mark: Finalizar o Protótipo por completo no Figma 
+
+:heavy_check_mark: Guardar projeto final do curso
 
 
 <hr>
